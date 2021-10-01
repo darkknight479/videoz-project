@@ -26,7 +26,7 @@ SECRET_KEY = 'fi^_$(sul@dr&&&*#1s!hk8#n$k0pmv@0b$32brc1^#-$+kcyy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['enigmatic-ravine-98802.herokuapp.com','saksham-videosharing.com']
 
 
 # Application definition
